@@ -14,7 +14,7 @@ O objetivo deste projeto é replicar a interface e funcionalidades básicas do s
 
 - Página de cursos e eventos
 
-+ Responsividade
+- Responsividade
 
 # Tecnologias Utilizadas
 
@@ -28,31 +28,31 @@ O objetivo deste projeto é replicar a interface e funcionalidades básicas do s
 
 # Estrutura do Projeto
 
-src/: Contém todos os arquivos de código fonte
+//  src/: Contém todos os arquivos de código fonte
 
-components/: Contém os componentes React usados na aplicação
+// components/: Contém os componentes React usados na aplicação
 
-Header.js: Componente para o cabeçalho da página
+// Header.js: Componente para o cabeçalho da página
 
-Footer.js: Componente para o rodapé da página
+// Footer.js: Componente para o rodapé da página
 
-LoginForm.js: Componente para o formulário de login
+// LoginForm.js: Componente para o formulário de login
 
-CourseList.js: Componente para listar os cursos disponíveis
+// CourseList.js: Componente para listar os cursos disponíveis
 
-pages/: Contém as páginas principais da aplicação
+// pages/: Contém as páginas principais da aplicação
 
-HomePage.js: Página inicial
+// HomePage.js: Página inicial
 
-CoursesPage.js: Página de cursos
+// CoursesPage.js: Página de cursos
 
-EventsPage.js: Página de eventos
+// EventsPage.js: Página de eventos
 
-LoginPage.js: Página de login
+// LoginPage.js: Página de login
 
-App.js: Componente principal que rendeiriza a aplicação
+// App.js: Componente principal que rendeiriza a aplicação
 
-index.js: Ponto de entrada da aplicação React
+// index.js: Ponto de entrada da aplicação React
 
 # Autor
 @ Thiago M. - ThiagoM018
