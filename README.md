@@ -6,15 +6,15 @@ O objetivo deste projeto é replicar a interface e funcionalidades básicas do s
 
 # Funcionalidades
 
-° Interface similar ao site Dio.me
+- Interface similar ao site Dio.me
 
-° Navegação entre páginas
+- Navegação entre páginas
 
-° Formulário de login
+- Formulário de login
 
-° Página de cursos e eventos
+- Página de cursos e eventos
 
-° Responsividade
++ Responsividade
 
 # Tecnologias Utilizadas
 
