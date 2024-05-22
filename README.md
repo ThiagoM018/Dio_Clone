@@ -1,5 +1,5 @@
 # Dio.me Clone
-Este é um projeto de um clone do site Dio.me desenvolvido com React.
+Este é um projeto de um clone do site Dio.me desenvolvido com React, com o intuito de colocar em pratica um pouco dos meus conhecimentos em react.
 
 # Visão Geral
 O objetivo deste projeto é replicar a interface e funcionalidades básicas do site Dio.me, utilizando a biblioteca React. Este clone serve como um exercício para praticar habilidades em desenvolvimento frontend e familiarizar-se com o React.
