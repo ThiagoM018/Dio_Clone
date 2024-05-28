@@ -1,4 +1,4 @@
-# Dio.me Clone
+# Dio Clone
 Este é um projeto de um clone do site Dio.me desenvolvido com React, com o intuito de colocar em pratica um pouco dos meus conhecimentos em react.
 
 # Visão Geral
